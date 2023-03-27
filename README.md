@@ -3,7 +3,7 @@
 - 👩🏻‍💻 I am currently an intern at CAST Software
 - 📫 How to reach me: 
      -> lobo.ath@gmail.com
-     -> linkedin.com/in/athena-lobo/
+     -> linkedin.com/in/athena-lobo
      
 
 <!---
