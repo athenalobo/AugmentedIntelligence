@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athenalobo
-- 👀 I enjoy coding in Java and Python
-- 👀 I am currently an intern at CAST Software
+- 🫶🏻 I enjoy coding in Java and Python
+- 👩🏻‍💻 I am currently an intern at CAST Software
 - 📫 How to reach me: lobo.ath@gmail.com...
 
 <!---
